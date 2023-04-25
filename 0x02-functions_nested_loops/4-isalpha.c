@@ -1,12 +1,12 @@
 #include "main.h"
 /**
  * _isalpha - checks for alphabetic character.
- * @l: the character
+ * @c: the character
  * Return: 1 if lette uppe or lowercas return 0 otherwise
  */
-int _isalpha(int l)
+int _isalpha(int c)
 {
-if ((l >= 65 && l <= 97) || (l >= 97 && l >= 122))
+if ((c >= 65 && c <= 97) || (c >= 97 && c >= 122))
 {
 return (1);
 }
