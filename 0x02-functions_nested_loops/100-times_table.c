@@ -9,7 +9,7 @@ int a;
 int b;
 int c;
 
-if (n < 15)
+if (n <= 15 && n >= 0)
 {
 for (a = 0; a <= n; a++)
 {
