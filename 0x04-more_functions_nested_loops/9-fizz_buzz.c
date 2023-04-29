@@ -28,7 +28,7 @@ printf("FizzBuzz ");
 }
 else if (count == 100)
 {
-printf("%d", count);
+printf("Buzz");
 }
 }
 printf("\n");
