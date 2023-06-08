@@ -18,7 +18,7 @@ return (0);
 }
 
 /**
- * palindrom_chack - checks if string is palindrom
+ * palindrom_check - checks if string is palindrom
  * @s: the string
  * @first: start of string
  * @last: last character of the string
